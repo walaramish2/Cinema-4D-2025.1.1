@@ -1,9 +1,6 @@
 > [!NOTE]
-> The program has a simple and clear interface that is suitable for both beginners and advanced users. You can choose from different modes of operation such as modeling, animation, rendering or materials. You can also use different tools such as brushes, lasso, knife or pencil.
-
-
-> [!NOTE]
-> Maxon Cinema 4D is a program for creating and animating three-dimensional graphics on a Windows computer. With its help you can easily and quickly create different kinds of three-dimensional objects, scenes, characters, etc.
+> - The program has a simple and clear interface that is suitable for both beginners and advanced users. You can choose from different modes of operation such as modeling, animation, rendering or materials. You can also use different tools such as brushes, lasso, knife or pencil.
+> - Maxon Cinema 4D is a program for creating and animating three-dimensional graphics on a Windows computer. With its help you can easily and quickly create different kinds of three-dimensional objects, scenes, characters, etc.
 
 > [!NOTE]
 > Choose your version and click on the picture to download:
